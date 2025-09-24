@@ -1,5 +1,6 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f3605ad-635a-4ffc-9a9d-0411b9cb22a5" /><div align="center">
-
+<div align="center">
+  <img src="https://imgur.com/a/vC7HCbz" alt="OneForAll Bot" width="100" height="100" style="border-radius: 50%;">
+  
   # OneForAll Discord Bot V14
   
   [![Discord.js](https://img.shields.io/badge/Discord.js-14.22.1-blue.svg)](https://discord.js.org/)
