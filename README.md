@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://imgur.com/a/vC7HCbz" alt="OneForAll Bot" width="100" height="100" style="border-radius: 50%;">
-  
-  # OneForAll Discord Bot V14
+   # OneForAll Discord Bot V14
   
   [![Discord.js](https://img.shields.io/badge/Discord.js-14.22.1-blue.svg)](https://discord.js.org/)
   [![Sequelize](https://img.shields.io/badge/Sequelize-6.x-green.svg)](https://sequelize.org/)
